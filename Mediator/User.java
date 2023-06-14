@@ -1,4 +1,3 @@
-
 public abstract class User implements IUser{
 
     protected ChatMediator chatMediator;
